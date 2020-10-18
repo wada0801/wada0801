@@ -1,0 +1,43 @@
+.header-list li{
+  list-style: none;
+  float:left;
+  padding: 20px;
+}
+
+.header-logo{
+  font-size: 30px;
+  float:left;
+  padding-right: 20px;
+  margin: 10px;
+}
+
+.header{
+  color: white;
+  background-color: #e8383d;
+  height: 60px
+}
+
+.main{
+  background-color: #f19ca7;
+}
+
+.copy-container li{
+  padding-bottom: 20px;
+}
+
+.contents {
+  height: 500px;
+}
+
+.contents li{
+  font-size: 30px;
+}
+
+.footer{
+  background-color: #e8383d;
+  color: white;
+}
+
+.footer li{
+  list-style: none;
+}
